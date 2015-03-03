@@ -1,0 +1,251 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="HL7.Common.Configuration.ApplicationConfiguration" Collapsed="true">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EgAQABAgYAECAyhADRhMABAJBAYAAAgMAAICAEGBAIE=</HashCode>
+      <FileName>Configuration\ApplicationConfiguration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HL7.Common.Enums.EnteredTypeAttribute" Collapsed="true">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAQAAAACAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Enums\EnteredTypeAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HL7.Common.Exceptions.CustomException" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAgAAAgAEAAAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Exceptions\CustomException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HL7.Common.Extenders.DateTimeExtender" Collapsed="true">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAEAAAAAAAAAAAIQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Extenders\DateTimeExtender.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HL7.Common.Extenders.EnteredTypeAttributeExtender" Collapsed="true">
+    <Position X="4.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAACAAAAAIAIAAAAAAABAA=</HashCode>
+      <FileName>Extenders\EnteredTypeAttributeExtender.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HL7.Common.Extenders.EnumExtender" Collapsed="true">
+    <Position X="6" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAABAAAAAAAAoAAAAAAAAAAAIAAAAAABAAAAAAA=</HashCode>
+      <FileName>Extenders\EnumExtender.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HL7.Common.Extenders.CustomExceptionExtender" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Extenders\ExceptionExtender.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HL7.Common.Extenders.IDataReaderExtender" Collapsed="true">
+    <Position X="7.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAiQAAAAICAAAAAAAAAABAAAABAEAAAAAAAAAACAgAA=</HashCode>
+      <FileName>Extenders\IDataReaderExtender.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HL7.Common.Extenders.StringExtender" Collapsed="true">
+    <Position X="9.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAEAAAAAAAAAQEAAAAAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Extenders\StringExtender.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HL7.Common.Interfaces.PatientBO" Collapsed="true">
+    <Position X="4.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\PatientBO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HL7.Common.Log.Log" Collapsed="true">
+    <Position X="9.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAAAAEAAACIAAAAQAAAABACAA=</HashCode>
+      <FileName>Log\Log.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HL7.Common.Serializer" Collapsed="true">
+    <Position X="6" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Serializer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HL7.Common.Utilities" Collapsed="true">
+    <Position X="11.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Utilities.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HL7.Common.VendorFacility" Collapsed="true">
+    <Position X="6" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAEABAAAgAAABAAAA=</HashCode>
+      <FileName>VendorFacility.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HL7.Common.SqlHelpers.MySqlConnectionHelper" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="11.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAQAAAAAACAAAAUAAAAAAAAoAAFAAEAAABAAABAAAAA=</HashCode>
+      <FileName>SqlHelpers\MySqlConnectionHelper.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="HL7.Common.SqlHelpers.SqlWrapper" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAQAAAAAAAAgAAFAAEAAAAAAggAAAAA=</HashCode>
+      <FileName>SqlHelpers\SqlWrapper.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="HL7.Common.Validation.Validation" Collapsed="true">
+    <Position X="4.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEIAAAAQAAAQABAAAAEAAAAAAAAACAQAAAAABAAAAo=</HashCode>
+      <FileName>Validation\Validation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="HL7.Common.Interfaces.IHttpWebRequest" Collapsed="true">
+    <Position X="4.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IHttpWebRequest.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="HL7.Common.Interfaces.IService&lt;T&gt;" Collapsed="true">
+    <Position X="6" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="HL7.Common.Interfaces.ISqlHelper" Collapsed="true">
+    <Position X="7.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAgAAEAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\ISqlHelper.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="HL7.Common.Enums.EAcknowledgementCode" Collapsed="true">
+    <Position X="4.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAQAAQAAAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Enums\EAcknowledgementCode.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="HL7.Common.Enums.EAddressType" Collapsed="true">
+    <Position X="6" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAABAAAAAAAQAAAABAAAAAAAAAkF9AAAA=</HashCode>
+      <FileName>Enums\EAddressType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="HL7.Common.Enums.EConnection" Collapsed="true">
+    <Position X="7.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enums\EConnection.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="HL7.Common.Enums.EDataEntryMethods" Collapsed="true">
+    <Position X="9.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>Enums\EDataEntryMethods.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="HL7.Common.Enums.EEnteredType" Collapsed="true">
+    <Position X="11.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAEAAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enums\EEnteredType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="HL7.Common.Enums.EErrorIdentifier" Collapsed="true">
+    <Position X="4.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAARAIJgABIDAaAAIAAAQFCICRBLBIAAEBAQIBASIA=</HashCode>
+      <FileName>Enums\EErrorIdentifier.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="HL7.Common.Enums.ELoadOptions" Collapsed="true">
+    <Position X="6" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAABAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Enums\ELoadOptions.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="HL7.Common.Enums.EMessageSegments" Collapsed="true">
+    <Position X="7.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAEAABAAAJAAAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>Enums\EMessageSegments.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="HL7.Common.Enums.EMessageTypes" Collapsed="true">
+    <Position X="9.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEgAAAAAAAABAAAAgAAAAACAAAAAAAAAEAAiFABA=</HashCode>
+      <FileName>Enums\EMessageTypes.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="HL7.Common.Enums.ESchema" Collapsed="true">
+    <Position X="11.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAABAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enums\ESchema.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="HL7.Common.Enums.EStatus" Collapsed="true">
+    <Position X="4.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQCAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAA=</HashCode>
+      <FileName>Enums\EStatus.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="HL7.Common.Enums.ETelecommunicationCodes" Collapsed="true">
+    <Position X="6" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAEQAAAAAQkIAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Enums\ETelecommunicationCodes.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="HL7.Common.Enums.ETelecommunicationEquipmentTypes" Collapsed="true">
+    <Position X="7.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAEAgAAABAAACACQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enums\ETelecommunicationEquipmentTypes.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="HL7.Common.Enums.EUniversalIDTypes" Collapsed="true">
+    <Position X="9.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>Enums\EUniversalIDTypes.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="HL7.Common.Enums.EVitalSignTypes" Collapsed="true">
+    <Position X="11.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAQCAQgAIAAAAACAAACBACAAoACAAAAAEIABAACA=</HashCode>
+      <FileName>Enums\EVitalSignTypes.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3D94076E-9ED1-4D47-9244-252C503D22A5}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Generic.Common</RootNamespace>
+    <AssemblyName>Generic.Common</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Configuration\ApplicationConfiguration.cs" />
+    <Compile Include="Enums\EAcknowledgementCode.cs" />
+    <Compile Include="Enums\EAddressType.cs" />
+    <Compile Include="Enums\EConnection.cs" />
+    <Compile Include="Enums\ECountryLoadOption.cs" />
+    <Compile Include="Enums\EDataEntryMethods.cs" />
+    <Compile Include="Enums\EEnteredType.cs" />
+    <Compile Include="Enums\EErrorIdentifier.cs" />
+    <Compile Include="Enums\ELoadOptions.cs" />
+    <Compile Include="Enums\EMessage.cs" />
+    <Compile Include="Enums\EMessageSegments.cs" />
+    <Compile Include="Enums\EMessageTypes.cs" />
+    <Compile Include="Enums\EnteredTypeAttribute.cs" />
+    <Compile Include="Enums\EOperation.cs" />
+    <Compile Include="Enums\EResponseType.cs" />
+    <Compile Include="Enums\EReturnFacility.cs" />
+    <Compile Include="Enums\ESchema.cs" />
+    <Compile Include="Enums\EStatus.cs" />
+    <Compile Include="Enums\ETelecommunicationCodes.cs" />
+    <Compile Include="Enums\ETelecommunicationEquipmentTypes.cs" />
+    <Compile Include="Enums\EUniversalIDTypes.cs" />
+    <Compile Include="Enums\EVitalSignTypes.cs" />
+    <Compile Include="Enums\EWriteLocation.cs" />
+    <Compile Include="Enums\Message.cs" />
+    <Compile Include="Exceptions\CustomException.cs" />
+    <Compile Include="Extenders\DateTimeExtender.cs" />
+    <Compile Include="Extenders\EEnteredTypeExtender.cs" />
+    <Compile Include="Extenders\EnumExtender.cs" />
+    <Compile Include="Extenders\ExceptionExtender.cs" />
+    <Compile Include="Extenders\IDataReaderExtender.cs" />
+    <Compile Include="Extenders\ObjectExtender.cs" />
+    <Compile Include="Extenders\StringExtender.cs" />
+    <Compile Include="Interfaces\ICrudOperations.cs" />
+    <Compile Include="Interfaces\IHttpWebRequest.cs" />
+    <Compile Include="Interfaces\IService.cs" />
+    <Compile Include="Interfaces\ISqlHelper.cs" />
+    <Compile Include="Interfaces\IValid.cs" />
+    <Compile Include="Interfaces\PatientBO.cs" />
+    <Compile Include="Log\Log.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Serializer.cs" />
+    <Compile Include="Utilities.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Diagrams\Generic.Common.ClassDiagram.cd" />
+    <None Include="Generic.Common.Graph.dgml" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,7 @@
+C:\Users\Dan\documents\visual studio 2012\Projects\MVC4_App_Millerdcjr\MVC4_App_Millerdcjr.DAL\bin\Debug\MVC4_App_Millerdcjr.DAL.dll
+C:\Users\Dan\documents\visual studio 2012\Projects\MVC4_App_Millerdcjr\MVC4_App_Millerdcjr.DAL\bin\Debug\MVC4_App_Millerdcjr.DAL.pdb
+C:\Users\Dan\documents\visual studio 2012\Projects\MVC4_App_Millerdcjr\MVC4_App_Millerdcjr.DAL\bin\Debug\Generic.Common.dll
+C:\Users\Dan\documents\visual studio 2012\Projects\MVC4_App_Millerdcjr\MVC4_App_Millerdcjr.DAL\bin\Debug\Generic.Common.pdb
+C:\Users\Dan\documents\visual studio 2012\Projects\MVC4_App_Millerdcjr\MVC4_App_Millerdcjr.DAL\obj\Debug\MVC4_App_Millerdcjr.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Dan\documents\visual studio 2012\Projects\MVC4_App_Millerdcjr\MVC4_App_Millerdcjr.DAL\obj\Debug\MVC4_App_Millerdcjr.DAL.dll
+C:\Users\Dan\documents\visual studio 2012\Projects\MVC4_App_Millerdcjr\MVC4_App_Millerdcjr.DAL\obj\Debug\MVC4_App_Millerdcjr.DAL.pdb

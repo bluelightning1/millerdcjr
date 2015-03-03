@@ -1,0 +1,24 @@
+C:\Users\Dan\documents\visual studio 2012\Projects\MVC4_App_Millerdcjr\Generic.Commont.Tests\bin\Debug\Generic.Common.Tests.dll.config
+C:\Users\Dan\documents\visual studio 2012\Projects\MVC4_App_Millerdcjr\Generic.Commont.Tests\bin\Debug\Generic.Common.Tests.dll
+C:\Users\Dan\documents\visual studio 2012\Projects\MVC4_App_Millerdcjr\Generic.Commont.Tests\bin\Debug\Generic.Common.Tests.pdb
+C:\Users\Dan\documents\visual studio 2012\Projects\MVC4_App_Millerdcjr\Generic.Commont.Tests\bin\Debug\Generic.Common.dll
+C:\Users\Dan\documents\visual studio 2012\Projects\MVC4_App_Millerdcjr\Generic.Commont.Tests\bin\Debug\Generic.Common.pdb
+C:\Users\Dan\documents\visual studio 2012\Projects\MVC4_App_Millerdcjr\Generic.Commont.Tests\obj\Debug\Generic.Common.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Dan\documents\visual studio 2012\Projects\MVC4_App_Millerdcjr\Generic.Commont.Tests\obj\Debug\Generic.Common.Tests.dll
+C:\Users\Dan\documents\visual studio 2012\Projects\MVC4_App_Millerdcjr\Generic.Commont.Tests\obj\Debug\Generic.Common.Tests.pdb
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Generic.Commont.Tests\bin\Debug\Generic.Common.Tests.dll.config
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Generic.Commont.Tests\bin\Debug\Generic.Common.Tests.dll
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Generic.Commont.Tests\bin\Debug\Generic.Common.Tests.pdb
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Generic.Commont.Tests\bin\Debug\Generic.Common.dll
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Generic.Commont.Tests\bin\Debug\Generic.Common.pdb
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Generic.Commont.Tests\obj\Debug\Generic.Common.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Generic.Commont.Tests\obj\Debug\Generic.Common.Tests.dll
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Generic.Commont.Tests\obj\Debug\Generic.Common.Tests.pdb
+C:\Users\Dan\Documents\GitHub\Git\3.5.net\Generic\Generic.Commont.Tests\bin\Debug\Generic.Common.Tests.dll.config
+C:\Users\Dan\Documents\GitHub\Git\3.5.net\Generic\Generic.Commont.Tests\bin\Debug\Generic.Common.Tests.dll
+C:\Users\Dan\Documents\GitHub\Git\3.5.net\Generic\Generic.Commont.Tests\bin\Debug\Generic.Common.Tests.pdb
+C:\Users\Dan\Documents\GitHub\Git\3.5.net\Generic\Generic.Commont.Tests\bin\Debug\Generic.Common.dll
+C:\Users\Dan\Documents\GitHub\Git\3.5.net\Generic\Generic.Commont.Tests\bin\Debug\Generic.Common.pdb
+C:\Users\Dan\Documents\GitHub\Git\3.5.net\Generic\Generic.Commont.Tests\obj\Debug\Generic.Common.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Dan\Documents\GitHub\Git\3.5.net\Generic\Generic.Commont.Tests\obj\Debug\Generic.Common.Tests.dll
+C:\Users\Dan\Documents\GitHub\Git\3.5.net\Generic\Generic.Commont.Tests\obj\Debug\Generic.Common.Tests.pdb

@@ -1,0 +1,30 @@
+C:\Users\Dan\documents\visual studio 2012\Projects\MVC4_App_Millerdcjr\Generic.DataAccessLayer.Tests\bin\Debug\Generic.DataAccessLayer.Tests.dll
+C:\Users\Dan\documents\visual studio 2012\Projects\MVC4_App_Millerdcjr\Generic.DataAccessLayer.Tests\bin\Debug\Generic.DataAccessLayer.Tests.pdb
+C:\Users\Dan\documents\visual studio 2012\Projects\MVC4_App_Millerdcjr\Generic.DataAccessLayer.Tests\bin\Debug\Generic.Common.dll
+C:\Users\Dan\documents\visual studio 2012\Projects\MVC4_App_Millerdcjr\Generic.DataAccessLayer.Tests\bin\Debug\Generic.DataAccessLayer.dll
+C:\Users\Dan\documents\visual studio 2012\Projects\MVC4_App_Millerdcjr\Generic.DataAccessLayer.Tests\bin\Debug\Generic.Common.pdb
+C:\Users\Dan\documents\visual studio 2012\Projects\MVC4_App_Millerdcjr\Generic.DataAccessLayer.Tests\bin\Debug\Generic.DataAccessLayer.pdb
+C:\Users\Dan\documents\visual studio 2012\Projects\MVC4_App_Millerdcjr\Generic.DataAccessLayer.Tests\obj\Debug\Generic.DataAccessLayer.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Dan\documents\visual studio 2012\Projects\MVC4_App_Millerdcjr\Generic.DataAccessLayer.Tests\obj\Debug\Generic.DataAccessLayer.Tests.dll
+C:\Users\Dan\documents\visual studio 2012\Projects\MVC4_App_Millerdcjr\Generic.DataAccessLayer.Tests\obj\Debug\Generic.DataAccessLayer.Tests.pdb
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Generic.DataAccessLayer.Tests\bin\Debug\Generic.DataAccessLayer.Tests.dll.config
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Generic.DataAccessLayer.Tests\bin\Debug\Generic.DataAccessLayer.Tests.dll
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Generic.DataAccessLayer.Tests\bin\Debug\Generic.DataAccessLayer.Tests.pdb
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Generic.DataAccessLayer.Tests\bin\Debug\Generic.Common.dll
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Generic.DataAccessLayer.Tests\bin\Debug\Generic.DataAccessLayer.dll
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Generic.DataAccessLayer.Tests\bin\Debug\Generic.Common.pdb
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Generic.DataAccessLayer.Tests\bin\Debug\Generic.DataAccessLayer.pdb
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Generic.DataAccessLayer.Tests\obj\Debug\Generic.DataAccessLayer.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Generic.DataAccessLayer.Tests\obj\Debug\Generic.DataAccessLayer.Tests.dll
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Generic.DataAccessLayer.Tests\obj\Debug\Generic.DataAccessLayer.Tests.pdb
+C:\Users\Dan\Documents\GitHub\Git\3.5.net\Generic\Generic.DataAccessLayer.Tests\bin\Debug\Generic.DataAccessLayer.Tests.dll.config
+C:\Users\Dan\Documents\GitHub\Git\3.5.net\Generic\Generic.DataAccessLayer.Tests\bin\Debug\Generic.DataAccessLayer.Tests.dll
+C:\Users\Dan\Documents\GitHub\Git\3.5.net\Generic\Generic.DataAccessLayer.Tests\bin\Debug\Generic.DataAccessLayer.Tests.pdb
+C:\Users\Dan\Documents\GitHub\Git\3.5.net\Generic\Generic.DataAccessLayer.Tests\bin\Debug\Generic.Common.dll
+C:\Users\Dan\Documents\GitHub\Git\3.5.net\Generic\Generic.DataAccessLayer.Tests\bin\Debug\Generic.DataAccessLayer.dll
+C:\Users\Dan\Documents\GitHub\Git\3.5.net\Generic\Generic.DataAccessLayer.Tests\bin\Debug\MySql.Data.dll
+C:\Users\Dan\Documents\GitHub\Git\3.5.net\Generic\Generic.DataAccessLayer.Tests\bin\Debug\Generic.Common.pdb
+C:\Users\Dan\Documents\GitHub\Git\3.5.net\Generic\Generic.DataAccessLayer.Tests\bin\Debug\Generic.DataAccessLayer.pdb
+C:\Users\Dan\Documents\GitHub\Git\3.5.net\Generic\Generic.DataAccessLayer.Tests\obj\Debug\Generic.DataAccessLayer.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Dan\Documents\GitHub\Git\3.5.net\Generic\Generic.DataAccessLayer.Tests\obj\Debug\Generic.DataAccessLayer.Tests.dll
+C:\Users\Dan\Documents\GitHub\Git\3.5.net\Generic\Generic.DataAccessLayer.Tests\obj\Debug\Generic.DataAccessLayer.Tests.pdb

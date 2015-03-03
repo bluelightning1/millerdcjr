@@ -1,0 +1,30 @@
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Millerdcjr.Restful\Millerdcjr.Restful\bin\Millerdcjr.Restful.dll
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Millerdcjr.Restful\Millerdcjr.Restful\bin\Millerdcjr.Restful.pdb
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Millerdcjr.Restful\Millerdcjr.Restful\bin\Generic.Common.dll
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Millerdcjr.Restful\Millerdcjr.Restful\bin\Millerdcjr.DAL.dll
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Millerdcjr.Restful\Millerdcjr.Restful\bin\Millerdcjr.Logging.dll
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Millerdcjr.Restful\Millerdcjr.Restful\bin\Generic.DataAccessLayer.dll
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Millerdcjr.Restful\Millerdcjr.Restful\bin\Generic.Common.pdb
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Millerdcjr.Restful\Millerdcjr.Restful\bin\Millerdcjr.DAL.pdb
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Millerdcjr.Restful\Millerdcjr.Restful\bin\Millerdcjr.Logging.pdb
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Millerdcjr.Restful\Millerdcjr.Restful\bin\Generic.DataAccessLayer.pdb
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Millerdcjr.Restful\Millerdcjr.Restful\obj\Debug\Millerdcjr.Restful.csprojResolveAssemblyReference.cache
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Millerdcjr.Restful\Millerdcjr.Restful\obj\Debug\Millerdcjr.Restful.dll
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Millerdcjr.Restful\Millerdcjr.Restful\obj\Debug\Millerdcjr.Restful.pdb
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Millerdcjr.Restful\Millerdcjr.Restful\bin\Newtonsoft.Json.dll
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Millerdcjr.Restful\Millerdcjr.Restful\bin\Newtonsoft.Json.xml
+C:\Users\Dan\Documents\GitHub\Git\3.5.net\Millerdcjr.Restful\obj\Debug\Millerdcjr.Restful.csprojResolveAssemblyReference.cache
+C:\Users\Dan\Documents\GitHub\Git\3.5.net\Millerdcjr.Restful\bin\Millerdcjr.Restful.dll
+C:\Users\Dan\Documents\GitHub\Git\3.5.net\Millerdcjr.Restful\bin\Millerdcjr.Restful.pdb
+C:\Users\Dan\Documents\GitHub\Git\3.5.net\Millerdcjr.Restful\bin\Generic.Common.dll
+C:\Users\Dan\Documents\GitHub\Git\3.5.net\Millerdcjr.Restful\bin\Generic.DataAccessLayer.dll
+C:\Users\Dan\Documents\GitHub\Git\3.5.net\Millerdcjr.Restful\bin\Millerdcjr.DAL.dll
+C:\Users\Dan\Documents\GitHub\Git\3.5.net\Millerdcjr.Restful\bin\Millerdcjr.Logging.dll
+C:\Users\Dan\Documents\GitHub\Git\3.5.net\Millerdcjr.Restful\bin\Newtonsoft.Json.dll
+C:\Users\Dan\Documents\GitHub\Git\3.5.net\Millerdcjr.Restful\bin\Generic.Common.pdb
+C:\Users\Dan\Documents\GitHub\Git\3.5.net\Millerdcjr.Restful\bin\Generic.DataAccessLayer.pdb
+C:\Users\Dan\Documents\GitHub\Git\3.5.net\Millerdcjr.Restful\bin\Millerdcjr.DAL.pdb
+C:\Users\Dan\Documents\GitHub\Git\3.5.net\Millerdcjr.Restful\bin\Millerdcjr.Logging.pdb
+C:\Users\Dan\Documents\GitHub\Git\3.5.net\Millerdcjr.Restful\bin\Newtonsoft.Json.xml
+C:\Users\Dan\Documents\GitHub\Git\3.5.net\Millerdcjr.Restful\obj\Debug\Millerdcjr.Restful.dll
+C:\Users\Dan\Documents\GitHub\Git\3.5.net\Millerdcjr.Restful\obj\Debug\Millerdcjr.Restful.pdb

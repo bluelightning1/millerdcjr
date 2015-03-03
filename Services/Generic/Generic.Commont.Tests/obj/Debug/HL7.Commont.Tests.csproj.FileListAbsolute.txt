@@ -1,0 +1,8 @@
+C:\HL7 Web Services\HL7.Commont.Tests\bin\Debug\HL7.Commont.Tests.dll.config
+C:\HL7 Web Services\HL7.Commont.Tests\bin\Debug\HL7.Commont.Tests.dll
+C:\HL7 Web Services\HL7.Commont.Tests\bin\Debug\HL7.Commont.Tests.pdb
+C:\HL7 Web Services\HL7.Commont.Tests\bin\Debug\HL7.Common.dll
+C:\HL7 Web Services\HL7.Commont.Tests\bin\Debug\HL7.Common.pdb
+C:\HL7 Web Services\HL7.Commont.Tests\obj\Debug\HL7.Commont.Tests.csprojResolveAssemblyReference.cache
+C:\HL7 Web Services\HL7.Commont.Tests\obj\Debug\HL7.Commont.Tests.dll
+C:\HL7 Web Services\HL7.Commont.Tests\obj\Debug\HL7.Commont.Tests.pdb

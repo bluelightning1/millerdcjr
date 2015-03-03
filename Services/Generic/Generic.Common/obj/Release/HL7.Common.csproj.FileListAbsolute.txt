@@ -1,0 +1,6 @@
+C:\HL7 Web Services\HL7.Common\bin\Release\HL7.Common.dll
+C:\HL7 Web Services\HL7.Common\bin\Release\HL7.Common.pdb
+C:\HL7 Web Services\HL7.Common\bin\Release\MySql.Data.dll
+C:\HL7 Web Services\HL7.Common\obj\Release\HL7.Common.csprojResolveAssemblyReference.cache
+C:\HL7 Web Services\HL7.Common\obj\Release\HL7.Common.dll
+C:\HL7 Web Services\HL7.Common\obj\Release\HL7.Common.pdb

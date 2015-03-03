@@ -1,0 +1,23 @@
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Millerdcjr.DAL\bin\Debug\Millerdcjr.DAL.dll
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Millerdcjr.DAL\bin\Debug\Millerdcjr.DAL.pdb
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Millerdcjr.DAL\bin\Debug\Generic.Common.dll
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Millerdcjr.DAL\bin\Debug\Generic.DataAccessLayer.dll
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Millerdcjr.DAL\bin\Debug\Millerdcjr.Logging.dll
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Millerdcjr.DAL\bin\Debug\Generic.Common.pdb
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Millerdcjr.DAL\bin\Debug\Generic.DataAccessLayer.pdb
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Millerdcjr.DAL\bin\Debug\Millerdcjr.Logging.pdb
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Millerdcjr.DAL\obj\Debug\Millerdcjr.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Millerdcjr.DAL\obj\Debug\Millerdcjr.DAL.dll
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Millerdcjr.DAL\obj\Debug\Millerdcjr.DAL.pdb
+C:\Users\Dan\Documents\GitHub\Git\3.5.net\Millerdcjr.DAL\bin\Debug\Millerdcjr.DAL.dll
+C:\Users\Dan\Documents\GitHub\Git\3.5.net\Millerdcjr.DAL\bin\Debug\Millerdcjr.DAL.pdb
+C:\Users\Dan\Documents\GitHub\Git\3.5.net\Millerdcjr.DAL\bin\Debug\Generic.Common.dll
+C:\Users\Dan\Documents\GitHub\Git\3.5.net\Millerdcjr.DAL\bin\Debug\Generic.DataAccessLayer.dll
+C:\Users\Dan\Documents\GitHub\Git\3.5.net\Millerdcjr.DAL\bin\Debug\Millerdcjr.Logging.dll
+C:\Users\Dan\Documents\GitHub\Git\3.5.net\Millerdcjr.DAL\bin\Debug\MySql.Data.dll
+C:\Users\Dan\Documents\GitHub\Git\3.5.net\Millerdcjr.DAL\bin\Debug\Generic.Common.pdb
+C:\Users\Dan\Documents\GitHub\Git\3.5.net\Millerdcjr.DAL\bin\Debug\Generic.DataAccessLayer.pdb
+C:\Users\Dan\Documents\GitHub\Git\3.5.net\Millerdcjr.DAL\bin\Debug\Millerdcjr.Logging.pdb
+C:\Users\Dan\Documents\GitHub\Git\3.5.net\Millerdcjr.DAL\obj\Debug\Millerdcjr.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Dan\Documents\GitHub\Git\3.5.net\Millerdcjr.DAL\obj\Debug\Millerdcjr.DAL.dll
+C:\Users\Dan\Documents\GitHub\Git\3.5.net\Millerdcjr.DAL\obj\Debug\Millerdcjr.DAL.pdb

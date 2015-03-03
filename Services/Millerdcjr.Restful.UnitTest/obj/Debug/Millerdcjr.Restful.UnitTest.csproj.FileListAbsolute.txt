@@ -1,0 +1,16 @@
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Millerdcjr.Restful\Millerdcjr.Restful.UnitTest\bin\Debug\Millerdcjr.Restful.UnitTest.dll.config
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Millerdcjr.Restful\Millerdcjr.Restful.UnitTest\bin\Debug\Millerdcjr.Restful.UnitTest.dll
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Millerdcjr.Restful\Millerdcjr.Restful.UnitTest\bin\Debug\Millerdcjr.Restful.UnitTest.pdb
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Millerdcjr.Restful\Millerdcjr.Restful.UnitTest\bin\Debug\Generic.Common.dll
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Millerdcjr.Restful\Millerdcjr.Restful.UnitTest\bin\Debug\Generic.DataAccessLayer.dll
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Millerdcjr.Restful\Millerdcjr.Restful.UnitTest\bin\Debug\Millerdcjr.DAL.dll
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Millerdcjr.Restful\Millerdcjr.Restful.UnitTest\bin\Debug\Millerdcjr.Logging.dll
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Millerdcjr.Restful\Millerdcjr.Restful.UnitTest\bin\Debug\Millerdcjr.Restful.dll
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Millerdcjr.Restful\Millerdcjr.Restful.UnitTest\bin\Debug\Generic.Common.pdb
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Millerdcjr.Restful\Millerdcjr.Restful.UnitTest\bin\Debug\Generic.DataAccessLayer.pdb
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Millerdcjr.Restful\Millerdcjr.Restful.UnitTest\bin\Debug\Millerdcjr.DAL.pdb
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Millerdcjr.Restful\Millerdcjr.Restful.UnitTest\bin\Debug\Millerdcjr.Logging.pdb
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Millerdcjr.Restful\Millerdcjr.Restful.UnitTest\bin\Debug\Millerdcjr.Restful.pdb
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Millerdcjr.Restful\Millerdcjr.Restful.UnitTest\obj\Debug\Millerdcjr.Restful.UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Millerdcjr.Restful\Millerdcjr.Restful.UnitTest\obj\Debug\Millerdcjr.Restful.UnitTest.dll
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Millerdcjr.Restful\Millerdcjr.Restful.UnitTest\obj\Debug\Millerdcjr.Restful.UnitTest.pdb

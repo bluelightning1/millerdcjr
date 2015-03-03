@@ -1,0 +1,13 @@
+C:\Users\Dan\documents\visual studio 2012\Projects\MVC4_App_Millerdcjr\Generic.Common\bin\Debug\Generic.Common.dll
+C:\Users\Dan\documents\visual studio 2012\Projects\MVC4_App_Millerdcjr\Generic.Common\bin\Debug\Generic.Common.pdb
+C:\Users\Dan\documents\visual studio 2012\Projects\MVC4_App_Millerdcjr\Generic.Common\obj\Debug\Generic.Common.csprojResolveAssemblyReference.cache
+C:\Users\Dan\documents\visual studio 2012\Projects\MVC4_App_Millerdcjr\Generic.Common\obj\Debug\Generic.Common.dll
+C:\Users\Dan\documents\visual studio 2012\Projects\MVC4_App_Millerdcjr\Generic.Common\obj\Debug\Generic.Common.pdb
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Generic.Common\bin\Debug\Generic.Common.dll
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Generic.Common\bin\Debug\Generic.Common.pdb
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Generic.Common\obj\Debug\Generic.Common.dll
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Generic.Common\obj\Debug\Generic.Common.pdb
+C:\Users\Dan\Documents\GitHub\Git\3.5.net\Generic\Generic.Common\bin\Debug\Generic.Common.dll
+C:\Users\Dan\Documents\GitHub\Git\3.5.net\Generic\Generic.Common\bin\Debug\Generic.Common.pdb
+C:\Users\Dan\Documents\GitHub\Git\3.5.net\Generic\Generic.Common\obj\Debug\Generic.Common.dll
+C:\Users\Dan\Documents\GitHub\Git\3.5.net\Generic\Generic.Common\obj\Debug\Generic.Common.pdb

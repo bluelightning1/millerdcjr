@@ -1,0 +1,19 @@
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Millerdcjr.Restful\Millerdcjr.Logging\bin\Debug\Millerdcjr.Logging.dll
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Millerdcjr.Restful\Millerdcjr.Logging\bin\Debug\Millerdcjr.Logging.pdb
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Millerdcjr.Restful\Millerdcjr.Logging\bin\Debug\Generic.Common.dll
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Millerdcjr.Restful\Millerdcjr.Logging\bin\Debug\Generic.DataAccessLayer.dll
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Millerdcjr.Restful\Millerdcjr.Logging\bin\Debug\Generic.Common.pdb
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Millerdcjr.Restful\Millerdcjr.Logging\bin\Debug\Generic.DataAccessLayer.pdb
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Millerdcjr.Restful\Millerdcjr.Logging\obj\Debug\Millerdcjr.Logging.csprojResolveAssemblyReference.cache
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Millerdcjr.Restful\Millerdcjr.Logging\obj\Debug\Millerdcjr.Logging.dll
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Millerdcjr.Restful\Millerdcjr.Logging\obj\Debug\Millerdcjr.Logging.pdb
+C:\Users\Dan\Documents\GitHub\Git\3.5.net\Millerdcjr.Logging\bin\Debug\Millerdcjr.Logging.dll
+C:\Users\Dan\Documents\GitHub\Git\3.5.net\Millerdcjr.Logging\bin\Debug\Millerdcjr.Logging.pdb
+C:\Users\Dan\Documents\GitHub\Git\3.5.net\Millerdcjr.Logging\bin\Debug\Generic.Common.dll
+C:\Users\Dan\Documents\GitHub\Git\3.5.net\Millerdcjr.Logging\bin\Debug\Generic.DataAccessLayer.dll
+C:\Users\Dan\Documents\GitHub\Git\3.5.net\Millerdcjr.Logging\bin\Debug\MySql.Data.dll
+C:\Users\Dan\Documents\GitHub\Git\3.5.net\Millerdcjr.Logging\bin\Debug\Generic.Common.pdb
+C:\Users\Dan\Documents\GitHub\Git\3.5.net\Millerdcjr.Logging\bin\Debug\Generic.DataAccessLayer.pdb
+C:\Users\Dan\Documents\GitHub\Git\3.5.net\Millerdcjr.Logging\obj\Debug\Millerdcjr.Logging.csprojResolveAssemblyReference.cache
+C:\Users\Dan\Documents\GitHub\Git\3.5.net\Millerdcjr.Logging\obj\Debug\Millerdcjr.Logging.dll
+C:\Users\Dan\Documents\GitHub\Git\3.5.net\Millerdcjr.Logging\obj\Debug\Millerdcjr.Logging.pdb

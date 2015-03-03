@@ -1,0 +1,23 @@
+C:\Users\Dan\documents\visual studio 2012\Projects\MVC4_App_Millerdcjr\Generic.DataAccessLayer\bin\Debug\Generic.DataAccessLayer.dll
+C:\Users\Dan\documents\visual studio 2012\Projects\MVC4_App_Millerdcjr\Generic.DataAccessLayer\bin\Debug\Generic.DataAccessLayer.pdb
+C:\Users\Dan\documents\visual studio 2012\Projects\MVC4_App_Millerdcjr\Generic.DataAccessLayer\bin\Debug\Generic.Common.dll
+C:\Users\Dan\documents\visual studio 2012\Projects\MVC4_App_Millerdcjr\Generic.DataAccessLayer\bin\Debug\MySql.Data.dll
+C:\Users\Dan\documents\visual studio 2012\Projects\MVC4_App_Millerdcjr\Generic.DataAccessLayer\bin\Debug\Generic.Common.pdb
+C:\Users\Dan\documents\visual studio 2012\Projects\MVC4_App_Millerdcjr\Generic.DataAccessLayer\obj\Debug\Generic.DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Dan\documents\visual studio 2012\Projects\MVC4_App_Millerdcjr\Generic.DataAccessLayer\obj\Debug\Generic.DataAccessLayer.dll
+C:\Users\Dan\documents\visual studio 2012\Projects\MVC4_App_Millerdcjr\Generic.DataAccessLayer\obj\Debug\Generic.DataAccessLayer.pdb
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Generic.DataAccessLayer\bin\Debug\Generic.DataAccessLayer.dll
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Generic.DataAccessLayer\bin\Debug\Generic.DataAccessLayer.pdb
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Generic.DataAccessLayer\bin\Debug\Generic.Common.dll
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Generic.DataAccessLayer\bin\Debug\MySql.Data.dll
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Generic.DataAccessLayer\bin\Debug\Generic.Common.pdb
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Generic.DataAccessLayer\obj\Debug\Generic.DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Generic.DataAccessLayer\obj\Debug\Generic.DataAccessLayer.dll
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Generic.DataAccessLayer\obj\Debug\Generic.DataAccessLayer.pdb
+C:\Users\Dan\Documents\GitHub\Git\3.5.net\Generic\Generic.DataAccessLayer\bin\Debug\Generic.DataAccessLayer.dll
+C:\Users\Dan\Documents\GitHub\Git\3.5.net\Generic\Generic.DataAccessLayer\bin\Debug\Generic.DataAccessLayer.pdb
+C:\Users\Dan\Documents\GitHub\Git\3.5.net\Generic\Generic.DataAccessLayer\bin\Debug\Generic.Common.dll
+C:\Users\Dan\Documents\GitHub\Git\3.5.net\Generic\Generic.DataAccessLayer\bin\Debug\Generic.Common.pdb
+C:\Users\Dan\Documents\GitHub\Git\3.5.net\Generic\Generic.DataAccessLayer\obj\Debug\Generic.DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Dan\Documents\GitHub\Git\3.5.net\Generic\Generic.DataAccessLayer\obj\Debug\Generic.DataAccessLayer.dll
+C:\Users\Dan\Documents\GitHub\Git\3.5.net\Generic\Generic.DataAccessLayer\obj\Debug\Generic.DataAccessLayer.pdb
