@@ -1,22 +1,31 @@
 ﻿<!DOCTYPE html>
-<html ng-app="mvcAngularJsWebApplication" ng-controller="LandingPageController">
+<html>
 <head>
-    <title ng-bind="models.helloAngular"></title>
+
 </head>
-<body>
-    <h1>{{models.helloAngular}}</h1>
-    <ul>
-        <li><a href="/#/routeOne">Route One</a></li>
-        <li><a href="/#/routeTwo/3">Route Two</a></li>
-        <li><a href="/#/routeThree">Route Three</a></li>
-    </ul>
-    <ul>
-        <li><a href="/#/login">Login</a></li>
-        <li><a href="/#/register">Register</a></li>
-    </ul>
-    <div ng-view></div>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/angular.js/1.2.20/angular.min.js"></script>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/angular.js/1.2.20/angular-route.min.js"></script>
+<body ng-app="mvcAngularJsWebApplication" ng-controller="MainController">
+    
+    <header>
+        <nav class="navbar navbar-default">
+            <div class="container">
+                <div class="navbar-header">
+                    <a class="navbar-brand" href="/">Angular Routing Example</a>
+                </div>
+
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a href="#"><i class="fa fa-home"></i> Home</a></li>
+                    <li><a href="#about"><i class="fa fa-shield"></i> About</a></li>
+                    <li><a href="#contact"><i class="fa fa-comment"></i> Contact</a></li>
+                    <li><a href="#links"><i class="fa fa-comment"></i> Links</a></li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+    <!-- MAIN CONTENT AND INJECTED VIEWS -->
+    <div id="main">
+        <div ng-view></div>
+    </div>
+    @Scripts.Render("~/bundles/bootstrap")
     @Scripts.Render("~/bundles/MVCAngularJsWebApplication")
 </body>
 </html>

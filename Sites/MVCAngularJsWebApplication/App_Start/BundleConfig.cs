@@ -22,14 +22,21 @@ namespace MVCAngularJsWebApplication
             //bundles.Add(new ScriptBundle("~/bundles/bootstrap").Include(
             //          "~/Scripts/bootstrap.js",
             //          "~/Scripts/respond.js"));
+            bundles.Add(new Bundle("~/css/bootstrap").Include(
+                       "~/Content/bootstrap.min.css"));
 
-            //bundles.Add(new StyleBundle("~/Content/css").Include(
-            //          "~/Content/bootstrap.css",
-            //          "~/Content/site.css"));
+            //bundles.Add(new StyleBundle("~/css/styles").Include(
+            //          "~/Content/Site.css"));
+
+            bundles.Add(new Bundle("~/bundles/bootstrap").Include(
+                    "~/Scripts/angular.min.js",
+                    "~/Scripts/angular-route.min.js"
+                    ));
+
             bundles.Add(new ScriptBundle("~/bundles/MVCAngularJsWebApplication")
-              .Include("~/Scripts/MVCAngularJsWebApplication.js")
                 .IncludeDirectory("~/Scripts/Factories", "*.js")
-              .IncludeDirectory("~/Scripts/Controllers", "*.js")
+                .IncludeDirectory("~/Scripts/Controllers", "*.js")
+                .Include("~/Scripts/MVCAngularJsWebApplication.js")
                 );
 
             BundleTable.EnableOptimizations = true;

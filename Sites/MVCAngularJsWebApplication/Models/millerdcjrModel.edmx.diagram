@@ -4,26 +4,31 @@
   <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
     <!-- Diagram content (shape and connector positions) -->
     <edmx:Diagrams>
-      <Diagram DiagramId="c45393a4a3a94b21b5abb6080a7ecb64" Name="Diagram1">
+      <Diagram DiagramId="0bb2801e7c544bc685d590820db4172a" Name="Diagram1">
         <EntityTypeShape EntityType="millerwebModel.Address" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
-        <EntityTypeShape EntityType="millerwebModel.aspnet_Applications" Width="1.5" PointX="0.75" PointY="9" IsExpanded="true" />
-        <EntityTypeShape EntityType="millerwebModel.aspnet_Membership" Width="2.75" PointX="4.75" PointY="10.5" IsExpanded="true" />
-        <EntityTypeShape EntityType="millerwebModel.aspnet_Paths" Width="1.5" PointX="3" PointY="7.5" IsExpanded="true" />
-        <EntityTypeShape EntityType="millerwebModel.aspnet_PersonalizationAllUsers" Width="1.5" PointX="5.25" PointY="7.75" IsExpanded="true" />
-        <EntityTypeShape EntityType="millerwebModel.aspnet_PersonalizationPerUser" Width="1.5" PointX="5.25" PointY="4.5" IsExpanded="true" />
-        <EntityTypeShape EntityType="millerwebModel.aspnet_Profile" Width="1.5" PointX="10.5" PointY="11.375" IsExpanded="true" />
-        <EntityTypeShape EntityType="millerwebModel.aspnet_Roles" Width="1.5" PointX="3" PointY="16.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="millerwebModel.aspnet_Applications" Width="1.5" PointX="0.75" PointY="8.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="millerwebModel.aspnet_Membership" Width="1.5" PointX="3" PointY="5.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="millerwebModel.aspnet_Paths" Width="1.5" PointX="3" PointY="12.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="millerwebModel.aspnet_PersonalizationAllUsers" Width="1.5" PointX="5.25" PointY="12.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="millerwebModel.aspnet_PersonalizationPerUser" Width="1.5" PointX="5.25" PointY="9.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="millerwebModel.aspnet_Profile" Width="1.5" PointX="10.5" PointY="10.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="millerwebModel.aspnet_Roles" Width="1.5" PointX="3" PointY="15.125" IsExpanded="true" />
         <EntityTypeShape EntityType="millerwebModel.aspnet_SchemaVersions" Width="1.5" PointX="2.75" PointY="0.75" IsExpanded="true" />
-        <EntityTypeShape EntityType="millerwebModel.aspnet_Users" Width="1.5" PointX="8.25" PointY="12.375" IsExpanded="true" />
-        <EntityTypeShape EntityType="millerwebModel.aspnet_WebEvent_Events" Width="1.5" PointX="7.75" PointY="0.75" IsExpanded="true" />
-        <EntityTypeShape EntityType="millerwebModel.Client" Width="1.5" PointX="4.75" PointY="0.75" IsExpanded="true" />
-        <EntityTypeShape EntityType="millerwebModel.Country" Width="1.5" PointX="0.75" PointY="4.75" IsExpanded="true" />
-        <EntityTypeShape EntityType="millerwebModel.CountryZone" Width="1.5" PointX="7.75" PointY="5.75" IsExpanded="true" />
-        <EntityTypeShape EntityType="millerwebModel.Gig" Width="1.5" PointX="9.75" PointY="0.75" IsExpanded="true" />
-        <EntityTypeShape EntityType="millerwebModel.Job" Width="1.5" PointX="10.5" PointY="14.375" IsExpanded="true" />
-        <EntityTypeShape EntityType="millerwebModel.Link" Width="1.5" PointX="8.75" PointY="8.75" IsExpanded="true" />
-        <EntityTypeShape EntityType="millerwebModel.Contact" Width="1.5" PointX="9.75" PointY="4.75" IsExpanded="true" />
-        <EntityTypeShape EntityType="millerwebModel.Log" Width="1.5" PointX="2.75" PointY="10.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="millerwebModel.aspnet_Users" Width="1.5" PointX="8.25" PointY="11.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="millerwebModel.aspnet_WebEvent_Events" Width="1.5" PointX="4.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="millerwebModel.Client" Width="1.5" PointX="0.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="millerwebModel.Contact" Width="1.5" PointX="5.75" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="millerwebModel.Country" Width="1.5" PointX="6.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="millerwebModel.CountryZone" Width="1.5" PointX="7.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="millerwebModel.Gig" Width="1.5" PointX="7.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="millerwebModel.Job" Width="1.5" PointX="10.5" PointY="13" IsExpanded="true" />
+        <EntityTypeShape EntityType="millerwebModel.Link" Width="1.5" PointX="8.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="millerwebModel.Log" Width="1.5" PointX="9.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="millerwebModel.UserProfile" Width="1.5" PointX="9.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="millerwebModel.webpages_Membership" Width="1.5" PointX="11.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="millerwebModel.webpages_OAuthMembership" Width="1.5" PointX="11.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="millerwebModel.webpages_Roles" Width="1.5" PointX="11.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="millerwebModel.webpages_UsersInRoles" Width="1.5" PointX="12.75" PointY="10.75" IsExpanded="true" />
         <AssociationConnector Association="millerwebModel.FK__aspnet_Me__Appli__21B6055D" ManuallyRouted="false" />
         <AssociationConnector Association="millerwebModel.FK__aspnet_Pa__Appli__5AEE82B9" ManuallyRouted="false" />
         <AssociationConnector Association="millerwebModel.FK__aspnet_Ro__Appli__440B1D61" ManuallyRouted="false" />

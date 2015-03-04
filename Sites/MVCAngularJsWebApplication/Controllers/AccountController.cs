@@ -1,4 +1,6 @@
-﻿using Microsoft.AspNet.Identity.Owin;
+﻿using Microsoft.AspNet.Identity;
+using Microsoft.AspNet.Identity.EntityFramework;
+using Microsoft.AspNet.Identity.Owin;
 using MVCAngularJsWebApplication.Models;
 using System;
 using System.Collections.Generic;
@@ -15,10 +17,13 @@ namespace MVCAngularJsWebApplication.Controllers
         private ApplicationUserManager _userManager;
         private ApplicationSignInManager _signInManager;
 
-        public AccountController() { }
+        public AccountController() {
+            _userManager = new ApplicationUserManager(new UserStore<ApplicationUser>(new ApplicationDbContext())); 
+        }
 
         public AccountController(ApplicationUserManager userManager, ApplicationSignInManager signInManager)
         {
+            _userManager = new ApplicationUserManager(new UserStore<ApplicationUser>(new ApplicationDbContext()));
             UserManager = userManager;
             SignInManager = signInManager;
         }
@@ -66,7 +71,9 @@ namespace MVCAngularJsWebApplication.Controllers
         [AllowAnonymous]
         public async Task<bool> Register(RegisterViewModel model)
         {
+           
             var user = new ApplicationUser { UserName = model.Email, Email = model.Email };
+            
             var result = await UserManager.CreateAsync(user, model.Password);
             if (!result.Succeeded) return false;
             await SignInManager.SignInAsync(user, false, false);

@@ -1,28 +1,34 @@
 ﻿var mvcAngularJsWebApplication = angular.module('mvcAngularJsWebApplication', ['ngRoute']);
 
-mvcAngularJsWebApplication.factory('LoginFactory', LoginFactory);
+mvcAngularJsWebApplication.factory('LoginFactory', LoginFactory); 
+mvcAngularJsWebApplication.factory('LinksFactory', LinksFactory); 
 mvcAngularJsWebApplication.factory('RegistrationFactory', RegistrationFactory);
-mvcAngularJsWebApplication.controller('LandingPageController', LandingPageController);
+mvcAngularJsWebApplication.controller('PlacesController', PlacesController);
+mvcAngularJsWebApplication.controller('MainController', MainController);
+mvcAngularJsWebApplication.controller('AboutController', AboutController);
+mvcAngularJsWebApplication.controller('ContactController', ContactController);
 
 var configFunction = function ($routeProvider, $httpProvider) {
     $routeProvider.
-       when('/routeOne', {
-           templateUrl: 'RoutesDemo/One'
-       })
-       .when('/routeTwo/:donuts', {
-           templateUrl: function (params) { return '/RoutesDemo/Two?donuts=' + params.donuts; }
-       })
-       .when('/routeThree', {
-           templateUrl: 'RoutesDemo/Three'
-       })
-    .when('/login', {
-        templateUrl: 'Account/Login',
-        controller: LoginController
-})
-    .when('/register', {
-        templateUrl: 'Account/Register',
-        controller: RegisterController
-        })    
+        when('/', {
+            templateUrl: 'Home/Main',
+            controller: MainController
+        })
+        // route for the about page
+        .when('/about', {
+            templateUrl: 'About',
+            controller: AboutController
+        })
+        // route for the contact page
+        .when('/contact', {
+            templateUrl: 'Contact',
+            controller: ContactController
+        })
+            // route for the contact page
+        .when('/links', {
+            templateUrl: 'Places',
+            controller: PlacesController,
+        })
     ;
 
     $httpProvider.interceptors.push(['$q', '$location', function ($q, $location) {
@@ -44,7 +50,6 @@ var configFunction = function ($routeProvider, $httpProvider) {
             }
         };
     }]);
-    //$httpProvider.interceptors.push('AuthHttpResponseInterceptor');
 }
 configFunction.$inject = ['$routeProvider', '$httpProvider'];
 mvcAngularJsWebApplication.config(configFunction);

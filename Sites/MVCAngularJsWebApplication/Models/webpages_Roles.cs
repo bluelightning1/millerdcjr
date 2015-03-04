@@ -10,10 +10,11 @@
 namespace MVCAngularJsWebApplication.Models
 {
     using System;
+    using System.Collections.Generic;
     
-    public partial class aspnet_Membership_GetPassword_Result
+    public partial class webpages_Roles
     {
-        public string Column1 { get; set; }
-        public Nullable<int> Column2 { get; set; }
+        public int RoleId { get; set; }
+        public string RoleName { get; set; }
     }
 }

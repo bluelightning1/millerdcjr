@@ -10,11 +10,12 @@
 namespace MVCAngularJsWebApplication.Models
 {
     using System;
+    using System.Collections.Generic;
     
-    public partial class aspnet_Profile_GetProperties_Result
+    public partial class webpages_OAuthMembership
     {
-        public string PropertyNames { get; set; }
-        public string PropertyValuesString { get; set; }
-        public byte[] PropertyValuesBinary { get; set; }
+        public string Provider { get; set; }
+        public string ProviderUserId { get; set; }
+        public int UserId { get; set; }
     }
 }

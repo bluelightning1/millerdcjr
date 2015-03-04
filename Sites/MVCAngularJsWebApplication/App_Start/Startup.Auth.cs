@@ -6,11 +6,14 @@ using Microsoft.Owin.Security.Cookies;
 using Microsoft.Owin.Security.Google;
 using Owin;
 using MVCAngularJsWebApplication.Models;
+using Microsoft.AspNet.Identity.EntityFramework;
 
 namespace MVCAngularJsWebApplication
 {
     public partial class Startup
     {
+        public static Func<UserManager<ApplicationUser>> UserManagerFactory { get; private set; }
+
         // For more information on configuring authentication, please visit http://go.microsoft.com/fwlink/?LinkId=301864
         public void ConfigureAuth(IAppBuilder app)
         {
@@ -45,7 +48,19 @@ namespace MVCAngularJsWebApplication
             // Once you check this option, your second step of verification during the login process will be remembered on the device where you logged in from.
             // This is similar to the RememberMe option when you log in.
             app.UseTwoFactorRememberBrowserCookie(DefaultAuthenticationTypes.TwoFactorRememberBrowserCookie);
+            // configure the user manager
+            UserManagerFactory = () =>
+            {
+                var usermanager = new UserManager<ApplicationUser>(
+                    new UserStore<ApplicationUser>(new ApplicationDbContext()));
+                // allow alphanumeric characters in username
+                usermanager.UserValidator = new UserValidator<ApplicationUser>(usermanager)
+                {
+                    AllowOnlyAlphanumericUserNames = false
+                };
 
+                return usermanager;
+            };
             // Uncomment the following lines to enable logging in with third party login providers
             //app.UseMicrosoftAccountAuthentication(
             //    clientId: "",

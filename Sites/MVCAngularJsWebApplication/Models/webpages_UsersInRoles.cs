@@ -10,15 +10,11 @@
 namespace MVCAngularJsWebApplication.Models
 {
     using System;
+    using System.Collections.Generic;
     
-    public partial class AddressRead_Result
+    public partial class webpages_UsersInRoles
     {
-        public string Street { get; set; }
-        public string Street2 { get; set; }
-        public string City { get; set; }
-        public System.Guid StateID { get; set; }
-        public System.Guid CountryID { get; set; }
-        public string PostalCode { get; set; }
-        public string PhoneNumber { get; set; }
+        public int UserId { get; set; }
+        public int RoleId { get; set; }
     }
 }

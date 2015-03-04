@@ -10,10 +10,11 @@
 namespace MVCAngularJsWebApplication.Models
 {
     using System;
+    using System.Collections.Generic;
     
-    public partial class aspnet_UsersInRoles_RemoveUsersFromRoles_Result
+    public partial class UserProfile
     {
-        public string Column1 { get; set; }
-        public string Name { get; set; }
+        public int UserId { get; set; }
+        public string UserName { get; set; }
     }
 }
