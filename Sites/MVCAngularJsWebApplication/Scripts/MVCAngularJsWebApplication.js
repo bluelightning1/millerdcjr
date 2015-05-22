@@ -8,7 +8,7 @@ mvcAngularJsWebApplication.controller('MainController', MainController);
 mvcAngularJsWebApplication.controller('AboutController', AboutController);
 mvcAngularJsWebApplication.controller('ContactController', ContactController);
 mvcAngularJsWebApplication.controller('AccountController', AccountController);
-
+ 
 var configFunction = function ($routeProvider, $httpProvider) {
     $routeProvider.
         when('/', {
