@@ -7,6 +7,7 @@ using System.Web.Mvc;
 
 namespace MVCAngularJsWebApplication.Controllers
 {
+    [Route("api/[controller]")]
     public class PlacesController : Controller
     {
         List<LinkModel> links = new List<LinkModel>();
@@ -18,10 +19,10 @@ namespace MVCAngularJsWebApplication.Controllers
         }
 
         [HttpGet]
-        [Route("AllPlaces")]
+        [Route("[action]")]
         public JsonResult GetAllLinks()
         {
-            using (millerwebEntities1 context = new millerwebEntities1())
+            using (millerwebEntities context = new millerwebEntities())
             {
                 links.AddRange(from l in context.Links
                                select new LinkModel
@@ -36,7 +37,7 @@ namespace MVCAngularJsWebApplication.Controllers
         }
 
         [HttpGet]
-        [Route("Places/:id")]
+        [Route("[action]/:id")]
         public JsonResult GetLinks(int id)
         {
             var link = links.FirstOrDefault((p) => p.Id == id);

@@ -1,31 +1,36 @@
 ﻿<!DOCTYPE html>
-<html>
+<html ng-app="mvcAngularJsWebApplication">
 <head>
+    <title></title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-</head>
-<body ng-app="mvcAngularJsWebApplication" ng-controller="MainController">
+    @Styles.Render("~/css/bootstrap")
+    @Styles.Render("~/css/styles")
     
-    <header>
-        <nav class="navbar navbar-default">
-            <div class="container">
-                <div class="navbar-header">
-                    <a class="navbar-brand" href="/">Angular Routing Example</a>
-                </div>
+</head>
+<body ng-controller="MainController">
 
-                <ul class="nav navbar-nav navbar-right">
-                    <li><a href="#"><i class="fa fa-home"></i> Home</a></li>
-                    <li><a href="#about"><i class="fa fa-shield"></i> About</a></li>
-                    <li><a href="#contact"><i class="fa fa-comment"></i> Contact</a></li>
-                    <li><a href="#links"><i class="fa fa-comment"></i> Links</a></li>
-                </ul>
-            </div>
+    <header>
+        <nav class="nav nav-default nav-fixed-top">
+            <ul class="nav nav-pills">
+                <li role="navigation"><a href="#/"><i class="fa fa-home"></i> Home</a></li>
+                <li role="navigation"><a href="#about"><i class="fa fa-shield"></i> About</a></li>
+                <li role="navigation"><a href="#contact"><i class="fa fa-comment"></i> Contact</a></li>
+                <li role="navigation"><a href="#links"><i class="fa fa-comment"></i> Links</a></li>
+                <li role="navigation"><a href="#login"><i class="fa fa-comment"></i> Login</a></li>
+            </ul>
         </nav>
     </header>
     <!-- MAIN CONTENT AND INJECTED VIEWS -->
-    <div id="main">
+    <content class="container">
         <div ng-view></div>
-    </div>
+    </content>
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/modernizr")
     @Scripts.Render("~/bundles/bootstrap")
+    @Scripts.Render("~/bundles/angular")
+    @Scripts.Render("~/bundles/uiGrid")
     @Scripts.Render("~/bundles/MVCAngularJsWebApplication")
 </body>
 </html>

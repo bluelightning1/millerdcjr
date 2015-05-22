@@ -1,20 +1,10 @@
 ﻿var LinksFactory = function ($http, $q) {
-    return function () {
-        var deferredObject = $q.defer();
-        $http.get('/api/Links')
-               .success(function (data) {
-                   if (data == "True") {
-                       deferredObject.resolve({ success: true });
-                   } else {
-                       deferredObject.resolve({ success: false });
-                   }
-               })
-               .error(function (data) {
-                   deferredObject.resolve({ success: false });
-               });
+    var factory = {};
+    factory.retrieve = function () {
+        return $http.get('Places/GetAllLinks');
 
-        return deferredObject.promise;
-    }
+    };
+    return factory;
 }
 
 LinksFactory.$inject = ['$http', '$q'];

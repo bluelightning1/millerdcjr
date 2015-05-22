@@ -1,1 +1,63 @@
-﻿
+﻿.container {
+    width: 95%;
+}
+
+.gridStyle {
+    border: 1px solid rgb(212,212,212);
+}
+
+.leftJustifiedColumn {
+    width: 100%;
+    height:100%;
+    vertical-align:central;
+    padding-left:0.5em;
+    text-align: justify;
+    line-height:2;
+}
+
+.centeredColumn {
+    width: 100%;
+    text-align: center;
+}
+
+div.ui-grid-cell input.button {
+    width: 30%;
+}
+
+.oneHundredPercent {
+    width: 100%;
+}
+
+.fiftyPercent {
+    margin: 0 auto;
+    width: 200px; /* value of your choice which suits your alignment */
+}
+
+.form-control {
+    height: 100%;
+    text-align: left;
+}
+
+@media (max-width: 320px) {
+    .jumbotron {
+    }
+     .fiftyPercent {
+        margin: 0 auto;
+        width: 100%; /* value of your choice which suits your alignment */
+    }
+}
+
+@media (max-width: 360px) {
+    .form-control {
+        text-align: justify;
+    }
+
+    .fiftyPercent {
+        margin: 0 auto;
+        width: 100%; /* value of your choice which suits your alignment */
+    }
+}
+
+@media (max-width: 720px) {
+
+}

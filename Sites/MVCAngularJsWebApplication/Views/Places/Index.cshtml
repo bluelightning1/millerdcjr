@@ -1,12 +1,11 @@
 ﻿@{
     ViewBag.Title = "Favorite Places";
 }
-<div ng-init="load()">
-    <h2>Favorite Places</h2>
-    <div ng-repeat="link in links">
-        <div>
-            <a target="_blank" href="{{link.Href}}">{{link.DisplayName}}</a>
-        </div>
+<div class="jumbotron text-center">
+
+    <div ng-init="load()">
+        <h1>Favorite Places</h1>
+        <p>{{ message }}</p>
+        <div ui-grid="gridOptions" class="gridStyle"></div>
     </div>
 </div>
-<pre> {{links}} </pre>

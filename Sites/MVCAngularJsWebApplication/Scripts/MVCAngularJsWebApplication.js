@@ -1,12 +1,13 @@
-﻿var mvcAngularJsWebApplication = angular.module('mvcAngularJsWebApplication', ['ngRoute']);
+﻿var mvcAngularJsWebApplication = angular.module('mvcAngularJsWebApplication', ['ngRoute', 'ui.grid']);
 
-mvcAngularJsWebApplication.factory('LoginFactory', LoginFactory); 
-mvcAngularJsWebApplication.factory('LinksFactory', LinksFactory); 
+mvcAngularJsWebApplication.factory('LoginFactory', LoginFactory);
+mvcAngularJsWebApplication.factory('LinksFactory', LinksFactory);
 mvcAngularJsWebApplication.factory('RegistrationFactory', RegistrationFactory);
 mvcAngularJsWebApplication.controller('PlacesController', PlacesController);
 mvcAngularJsWebApplication.controller('MainController', MainController);
 mvcAngularJsWebApplication.controller('AboutController', AboutController);
 mvcAngularJsWebApplication.controller('ContactController', ContactController);
+mvcAngularJsWebApplication.controller('AccountController', AccountController);
 
 var configFunction = function ($routeProvider, $httpProvider) {
     $routeProvider.
@@ -27,9 +28,12 @@ var configFunction = function ($routeProvider, $httpProvider) {
             // route for the contact page
         .when('/links', {
             templateUrl: 'Places',
-            controller: PlacesController,
+            controller: PlacesController
         })
-    ;
+        .when('/login', {
+            templateUrl: 'Account/Login',
+            controller: AccountController
+        });
 
     $httpProvider.interceptors.push(['$q', '$location', function ($q, $location) {
         return {

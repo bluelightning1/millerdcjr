@@ -14,7 +14,7 @@
         results.then(function (result) {
             if (result.success) {
                 if ($scope.loginForm.returnUrl !== undefined) {
-                    alert("succes, but return url !== undefined");
+                    alert("success, but return url !== undefined");
                     $location.path('/routeOne');
                 } else {
                     alert("succes, but no return url");

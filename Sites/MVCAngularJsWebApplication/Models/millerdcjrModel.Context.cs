@@ -13,16 +13,16 @@ namespace MVCAngularJsWebApplication.Models
     using System.Data.Entity;
     using System.Data.Entity.Infrastructure;
     
-    public partial class millerwebEntities1 : DbContext
+    public partial class millerwebEntities : DbContext
     {
-        public millerwebEntities1()
-            : base("name=millerwebEntities1")
+        public millerwebEntities()
+            : base("name=millerwebEntities")
         {
         }
     
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
-            throw new UnintentionalCodeFirstException();
+            //throw new UnintentionalCodeFirstException();
         }
     
         public virtual DbSet<Address> Addresses { get; set; }

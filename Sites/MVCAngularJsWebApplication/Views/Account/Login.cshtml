@@ -1,15 +1,27 @@
-﻿<form ng-submit="login()" name="loginForm" >
-    <label for="emailAddress">Email Address:</label>
-    <input type="email" ng-model="loginForm.emailAddress" id="emailAddress" />
-
-    <label for="password">Password:</label>
-    <input type="password" id="password" ng-model="loginForm.password" />
-
-    <label for="rememberMe">Remember Me:</label>
-    <input type="checkbox" id="rememberMe" ng-model="loginForm.rememberMe" />
-    <button type="submit" >Login</button>
-</form>
-<div ng-if="loginForm.loginFailure">
-    D'oh!
+﻿<!-- contact.html -->
+<div class="jumbotron text-center">
+    <h1>Account Login</h1>
+    <p>{{ message }}</p>
+    <div class="oneHundredPercent">
+        <div class="fiftyPercent">
+            <form ng-submit="login()" name="loginForm" class="form-control">
+                <div>
+                    <label for="emailAddress">Email Address:</label><br />
+                    <input type="email" ng-model="loginForm.emailAddress" id="emailAddress" />
+                </div>
+                <div>
+                    <label for="password">Password:</label><br />
+                    <input type="password" id="password" ng-model="loginForm.password" />
+                </div>
+                <div>
+                    <label for="rememberMe">Remember Me:</label>
+                    <input type="checkbox" id="rememberMe" ng-model="loginForm.rememberMe" />
+                </div>
+                <button type="submit">Login</button>
+            </form>
+        </div>
+        <div ng-if="loginForm.loginFailure">
+            D'oh!
+        </div>
+    </div>
 </div>
-
